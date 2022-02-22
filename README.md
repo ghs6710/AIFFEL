@@ -1,2 +1,2 @@
-# kang-hye-seon
-연습용레퍼지토리
+# aiffel
+머신러닝 딥러닝
